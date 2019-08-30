@@ -1,11 +1,11 @@
 # Tutorial : How to create a virtualhost on Solus:Budgie 
 
-## 1 : create a Domain Name 
+## 1 : Create a domain Name 
 - se placer dans `/etc/hosts`
 
 - Add : `127.0.0.1 domain_name`
 
-## 2 : Add you host to your Server
+## 2 : Add your host to your server
 
 - Se placer dans `/etc/httpd/conf.d`
 

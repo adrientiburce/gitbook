@@ -2,30 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eea6c72a-d934-49a8-9773-985f04d794ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/linux/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/solus/bashrc.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terminal/git.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vscode/setup.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mint-ubuntu/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/linux/mint/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mint-ubuntu/install.md" beforeDir="false" afterPath="$PROJECT_DIR$/linux/mint/install.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mint-ubuntu/repair.md" beforeDir="false" afterPath="$PROJECT_DIR$/linux/mint/repair.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solus/.bashrc_new" beforeDir="false" afterPath="$PROJECT_DIR$/linux/solus/.bashrc_new" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solus/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/linux/solus/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solus/bashrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solus/configurations/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/linux/solus/configurations/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solus/configurations/httpd.conf" beforeDir="false" afterPath="$PROJECT_DIR$/linux/solus/configurations/httpd.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solus/configurations/php.conf" beforeDir="false" afterPath="$PROJECT_DIR$/linux/solus/configurations/php.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solus/configurations/weblaine.conf" beforeDir="false" afterPath="$PROJECT_DIR$/linux/solus/configurations/weblaine.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solus/install.md" beforeDir="false" afterPath="$PROJECT_DIR$/linux/solus/install.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solus/virtualhost/monsite.conf" beforeDir="false" afterPath="$PROJECT_DIR$/linux/solus/virtualhost/monsite.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solus/virtualhost/tuto_virtualHost.md" beforeDir="false" afterPath="$PROJECT_DIR$/linux/solus/virtualhost/tuto_virtualHost.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solus/virtualhost/vhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/linux/solus/virtualhost/vhost.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terminal/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/terminal/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terminal/commandes.md" beforeDir="false" afterPath="$PROJECT_DIR$/terminal/commandes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terminal/tweak.md" beforeDir="false" afterPath="$PROJECT_DIR$/terminal/zsh.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vscode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vscode/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vscode/install.md" beforeDir="false" afterPath="$PROJECT_DIR$/vscode/install.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/solus/virtualhost/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/solus/virtualhost/monsite.conf" beforeDir="false" afterPath="$PROJECT_DIR$/linux/solus/virtualhost/monsite.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/solus/virtualhost/tuto_virtualHost.md" beforeDir="false" afterPath="$PROJECT_DIR$/linux/solus/virtualhost/tuto.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,22 +37,15 @@
         <option value="$PROJECT_DIR$/vscode/install.md" />
         <option value="$PROJECT_DIR$/vscode/setup.md" />
         <option value="$PROJECT_DIR$/vscode/README.md" />
+        <option value="$PROJECT_DIR$/linux/solus/virtualhost/tuto_virtualHost.md" />
+        <option value="$PROJECT_DIR$/linux/solus/virtualhost/monsite.conf" />
+        <option value="$PROJECT_DIR$/linux/solus/virtualhost/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/linux_helper.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="34" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="160" />
+    <option name="y" value="99" />
     <option name="width" value="1243" />
     <option name="height" value="824" />
   </component>
@@ -81,6 +54,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -88,25 +62,15 @@
               <item name="linux_helper" type="b2602c69:ProjectViewProjectNode" />
               <item name="linux_helper" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="linux_helper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="linux_helper" type="462c0819:PsiDirectoryNode" />
-              <item name="linux" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="linux_helper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="linux_helper" type="462c0819:PsiDirectoryNode" />
-              <item name="vscode" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/.nvm/versions/node/v10.10.0/lib/node_modules/prettier" />
@@ -133,19 +97,14 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="34" y="23" width="1243" height="824" extended-state="0" />
+    <frame x="160" y="99" width="1243" height="824" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26644462" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27060783" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -153,14 +112,19 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="make" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="SciView" weight="0.32972524" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32972524" />
+      <window_info anchor="right" id="make" order="5" weight="0.32972524" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,50 +192,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/linux/solus/virtualhost/tuto_virtualHost.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/linux/solus/.bashrc_new">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="18" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linux/solus/configurations/php.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="21">
-            <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linux/solus/configurations/httpd.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linux/solus/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -330,6 +254,78 @@
         <state split_layout="SPLIT">
           <first_editor>
             <caret selection-end-line="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linux/solus/configurations/httpd.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linux/solus/configurations/php.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="21">
+            <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linux/solus/virtualhost/monsite.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linux/solus/configurations/weblaine.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linux/solus/virtualhost/tuto.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="840">
+            <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linux/solus/virtualhost/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="84">
+            <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linux/solus/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           </first_editor>
           <second_editor />
         </state>

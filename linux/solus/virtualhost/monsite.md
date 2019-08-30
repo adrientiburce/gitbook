@@ -1,3 +1,7 @@
+## Example de fichier `monsite.conf`
+
+```bash
+
 <VirtualHost *:80>
         #nom de domaine
 	ServerName monsite
@@ -17,3 +21,5 @@
    		require all granted
 	</Directory>
 </VirtualHost>
+
+```
