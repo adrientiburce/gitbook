@@ -1,4 +1,4 @@
-# Installation de VS Code
+# Installation
 
 ## Installation
 

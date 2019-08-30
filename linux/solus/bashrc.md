@@ -1,4 +1,8 @@
-# Mon Bashrc
+---
+description: Divers Alias utiles sur Solus
+---
+
+# Bashrc
 
 ```bash
 source /usr/share/defaults/etc/profile

@@ -1,4 +1,8 @@
-# Example de fichier monsite.conf
+---
+description: Fichier pour un virtualhost monsite.conf
+---
+
+# Example
 
 ```bash
 <VirtualHost *:80>

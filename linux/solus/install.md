@@ -27,7 +27,7 @@ Suivez l'installation puis redémarrez votre ordinateur en enlevant la clé !
 
 ### En y accédant par la partition BIOS
 
-* Etape 0 : 
+* Etape 0 :
 
   Accédez à Solus et retenez le chemin `EFI/..`
 
@@ -48,7 +48,7 @@ Une fois sur Solus il faut ajouter à la main la partition Solus dans le menu UE
   ```
 
 * Etape 3 :
-  * Pour changer l'ordre d'amorcage taper : 
+  * Pour changer l'ordre d'amorcage taper :
 
     ```bash
     sudo efibootmgr -o 0001,3001
@@ -58,11 +58,11 @@ Une fois sur Solus il faut ajouter à la main la partition Solus dans le menu UE
 
 ## 4. Pour avoir le choix entre Windows & Solus :
 
-* Etape 1 : 
+* Etape 1 :
 
   Taper dans la console : `sudo clr-boot-manager set-timeout 5`
 
-* Etape 2 : 
+* Etape 2 :
 
   Entrer `sudo clr-boot-manager update`
 

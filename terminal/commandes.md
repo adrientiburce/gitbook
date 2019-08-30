@@ -2,7 +2,7 @@
 description: Petit mémo sur des commandes bash bien utiles
 ---
 
-# Commandes bash :
+# Commandes bash
 
 Quelques commandes utiles sur Linux
 
