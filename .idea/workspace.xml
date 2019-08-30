@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eea6c72a-d934-49a8-9773-985f04d794ab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linux/mint/book.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/linux/mint/repair.md" beforeDir="false" afterPath="$PROJECT_DIR$/linux/mint/repair.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linux/solus/configurations/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/linux/solus/configurations/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linux/solus/install.md" beforeDir="false" afterPath="$PROJECT_DIR$/linux/solus/install.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linux/solus/virtualhost/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/linux/solus/virtualhost/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linux/solus/virtualhost/tuto.md" beforeDir="false" afterPath="$PROJECT_DIR$/linux/solus/virtualhost/tuto.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terminal/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/terminal/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terminal/commandes.md" beforeDir="false" afterPath="$PROJECT_DIR$/terminal/commandes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terminal/git.md" beforeDir="false" afterPath="$PROJECT_DIR$/terminal/git.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terminal/zsh.md" beforeDir="false" afterPath="$PROJECT_DIR$/terminal/zsh.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vscode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vscode/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,11 +13,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/linux/solus/README.md">
+        <entry file="file://$PROJECT_DIR$/linux/solus/virtualhost/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="168">
-                <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <first_editor relative-caret-position="105">
+                <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/linux/solus/configurations/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="189">
+                <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -101,18 +102,14 @@
               <item name="linux_helper" type="b2602c69:ProjectViewProjectNode" />
               <item name="linux_helper" type="462c0819:PsiDirectoryNode" />
               <item name="linux" type="462c0819:PsiDirectoryNode" />
-              <item name="mint" type="462c0819:PsiDirectoryNode" />
+              <item name="solus" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="linux_helper" type="b2602c69:ProjectViewProjectNode" />
               <item name="linux_helper" type="462c0819:PsiDirectoryNode" />
               <item name="linux" type="462c0819:PsiDirectoryNode" />
               <item name="solus" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="linux_helper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="linux_helper" type="462c0819:PsiDirectoryNode" />
-              <item name="vscode" type="462c0819:PsiDirectoryNode" />
+              <item name="configurations" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -156,7 +153,7 @@
     <frame x="41" y="23" width="1305" height="822" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26524147" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19160728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -376,26 +373,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/linux/solus/virtualhost/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="2" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linux/solus/configurations/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="189">
-            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/linux/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -421,14 +398,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/linux/solus/install.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -444,6 +413,36 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="168">
             <caret line="8" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linux/solus/configurations/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="189">
+            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linux/solus/virtualhost/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
           </first_editor>
           <second_editor />
         </state>
