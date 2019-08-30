@@ -1,4 +1,8 @@
-# Commandes bash utiles :
+---
+description: Petit mémo sur des commandes bash bien utiles
+---
+
+# Commandes bash :
 
 Quelques commandes utiles sur Linux
 

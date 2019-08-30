@@ -1,4 +1,8 @@
-# Tutorial : How to create a virtualhost on Solus:Budgie
+---
+description: Comment créer un virtualhost
+---
+
+# Configuration
 
 ## 1 : Create a domain Name
 

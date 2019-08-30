@@ -1,4 +1,8 @@
-# GIT
+---
+description: Notes sur l'outil de versionning Git
+---
+
+# Git
 
 ## Stash
 

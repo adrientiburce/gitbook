@@ -1,4 +1,8 @@
-# Installation de Solus en DualBoot
+---
+description: Comment installer Solus en DualBoot
+---
+
+# Installation
 
 ## 1. Préliminaires
 
