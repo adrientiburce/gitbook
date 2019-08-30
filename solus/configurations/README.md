@@ -1,1 +1,0 @@
-##  Fichier pour un serveur LAMP sous solus 

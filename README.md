@@ -1,11 +1,9 @@
-# Repository contenant divers notes sur Linux
+## Documentation personnelle
 
-## Ce dossier regroupe : 
+### Vous trouverez ici divers notes, configuration 
 
- * Un fichier l'installation et contenant des astuces sur Linux Minst / Ubuntu 
+ * [Linux : Solus, Linux Mint](linux/)
 
- * De même sur Solus 
+ * [Configuration du Terminal](terminal/)
 
- * La personnalisation du __terminal avec zsh__
-
- * VSCode : L'installation et les extension utiles 
+ * [IDE : Visual Studio Code](vscode/)

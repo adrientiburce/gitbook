@@ -1,4 +1,4 @@
-### Astuces Linux 
+# Astuces Linux 
 
 ## Terminal : Zsh 
 
@@ -33,19 +33,3 @@ Ajouter la ligne suivante à votre `.zshrc` ( ou ajoute une option avec la comma
 setopt correct
 ```
 - désormains pour accéder à `Document/info` ou peut simplement taper : `cd ~/D/i` 
-## GIT
-
-### Stash
-Par défaut on ne peut que stasher que des fichiers modifiés le drapeaux u (`untracked`) les ajoute à l'index :
-* pour suivre un fichier avec un stash : `git stash -u`
-
-## Installation de PHP
-
-1) Paquets utiles à installer pour LAMP
-```
-sudo apt-get install php-curl 
-```
-puis,
-```
-sudo apt-get install php-zip
-```

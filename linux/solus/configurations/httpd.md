@@ -1,5 +1,7 @@
+### Fichier `httpd.conf`
 
 
+```bash
 <IfModule dir_module>
 	Alias /projet /home/adrient/Documents/info/0php_project
 	Alias /origenial /home/adrient/Documents/info/origenial.fr
@@ -35,4 +37,5 @@ DocumentRoot "/var/www"
 	Require all granted
 </Directory>
 
+```
 

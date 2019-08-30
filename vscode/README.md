@@ -1,5 +1,5 @@
-# Notes sur l'installation de VSCode
+## Notes sur l'installation de VSCode
 
-## Ce dossier regroupe : 
-
- * Un fichier résumant l'installation et les __extensions utiles__ 
+ * [Un fichier résumant l'installation](install.md)
+  
+ * [les __extensions utiles__](setup.md)

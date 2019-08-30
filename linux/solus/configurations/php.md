@@ -1,3 +1,8 @@
+
+### Fichier `php.conf`
+
+```bash
+
 LoadModule proxy_module lib64/httpd/mod_proxy.so
 LoadModule proxy_fcgi_module lib64/httpd/mod_proxy_fcgi.so
 <FilesMatch .php$>
@@ -9,3 +14,4 @@ DirectoryIndex index.php index.html
 </IfModule>
 
 
+```

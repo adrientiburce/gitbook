@@ -16,4 +16,4 @@
  ## Filtrer la sortie 
  - Commande `tail` : affiche que les liges de la fin : 
  
- `tail -3 .bashrc` : affiche les 3 dernières lignes 
+- Exemple : `tail -3 .bashrc` : affiche les 3 dernières lignes 
