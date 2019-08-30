@@ -1,16 +1,18 @@
-# Configurer Linux Mint
+---
+description: Les premiers réglages à faire après avoir installé Linux Mint
+---
 
-Que faire après avoir installé Linux Mint
+# Configurer Linux Mint
 
 ## Problèmes de Wifi avec RTL8723BE
 
-1\) Préliminaires
+1. Préliminaires
 
 * Vérifier votre carte wifi avec : `lspci | grep "Network"`
 * Vérifier l'état de votre connexion : `iwlist scan | egrep -i 'ssid|quality'` 
 * Mettre a Jout APT : voir ci-dessous 
 
-2\) Changer l'antenne utilisée :
+2. Changer l'antenne utilisée :
 
 * `echo "options rtl8723be fwlps=0 ant_sel=2" | sudo tee /etc/modprobe.d/rtl8723be.conf`
 * Redémarrer le module : `sudo modprobe -r rtl8723be` puis `sudo modprobe rtl8723be`
