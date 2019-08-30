@@ -1,8 +1,6 @@
-
-### Fichier `php.conf`
+# Fichier php.conf
 
 ```bash
-
 LoadModule proxy_module lib64/httpd/mod_proxy.so
 LoadModule proxy_fcgi_module lib64/httpd/mod_proxy_fcgi.so
 <FilesMatch .php$>
@@ -12,6 +10,5 @@ SetHandler "proxy:fcgi://127.0.0.1:9000"
 <IfModule dir_module>
 DirectoryIndex index.php index.html
 </IfModule>
-
-
 ```
+

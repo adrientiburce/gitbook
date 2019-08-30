@@ -1,10 +1,10 @@
-## Linux
+# Linux
 
- * [Solus](solus/)
- 
+* [Solus](solus/)
+
   > Site officielle : [getsol.us](https://getsol.us/home/)
 
- * [Linux Mint](mint/)
- 
+* [Linux Mint](mint/)
+
   > Site : [linuxmint.com](https://www.linuxmint.com/)
 

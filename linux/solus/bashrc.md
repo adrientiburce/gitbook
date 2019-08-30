@@ -1,8 +1,6 @@
-
-### Mon Bashrc
+# Mon Bashrc
 
 ```bash
-
 source /usr/share/defaults/etc/profile
 
 alias bureau="cd /home/adrient/Bureau";
@@ -22,5 +20,5 @@ alias kk="cd ~/gitkraken/ && ./gitkraken";
 alias ssho="ssh adrien@origenial.fr";
 alias phps="php bin/console server:start";
 alias phprun="php -S localhost:8000 -t public/";
-
 ```
+

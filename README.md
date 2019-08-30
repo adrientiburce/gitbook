@@ -1,9 +1,8 @@
-## Documentation personnelle
+# Documentation personnelle
 
-### Vous trouverez ici divers notes, configuration 
+## Vous trouverez ici divers notes, configuration
 
- * [Linux : Solus, Linux Mint](linux/)
+* [Linux : Solus, Linux Mint](linux/)
+* [Configuration du Terminal](terminal/)
+* [IDE : Visual Studio Code](vscode/)
 
- * [Configuration du Terminal](terminal/)
-
- * [IDE : Visual Studio Code](vscode/)

@@ -1,14 +1,13 @@
-### Fichier `httpd.conf`
-
+# Fichier httpd.conf
 
 ```bash
 <IfModule dir_module>
-	Alias /projet /home/adrient/Documents/info/0php_project
-	Alias /origenial /home/adrient/Documents/info/origenial.fr
-	Alias /js /home/adrient/Documents/info/0js_web
-	Alias /info /home/adrient/Documents/info
-	Alias /wp /home/adrient/Documents/info/Demowordplate/public
-	Alias /php /var/www/phpMyAdmin 
+    Alias /projet /home/adrient/Documents/info/0php_project
+    Alias /origenial /home/adrient/Documents/info/origenial.fr
+    Alias /js /home/adrient/Documents/info/0js_web
+    Alias /info /home/adrient/Documents/info
+    Alias /wp /home/adrient/Documents/info/Demowordplate/public
+    Alias /php /var/www/phpMyAdmin 
 </IfModule>
 
 
@@ -23,19 +22,18 @@
 DocumentRoot "/var/www"
 
 <Directory "/var/www">
-	Require all granted
+    Require all granted
 </Directory>
 
 
 <Directory "/home/adrient/Documents/info">
-	Options Indexes Multiviews
-	Require all granted
+    Options Indexes Multiviews
+    Require all granted
 </Directory>
 
 <Directory "/home/adrient/Documents/info/Demowordplate">
-	
-	Require all granted
-</Directory>
 
+    Require all granted
+</Directory>
 ```
 
