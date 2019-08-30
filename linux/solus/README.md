@@ -1,4 +1,4 @@
-# Notes sur l'installation de Solus
+# Solus
 
 ## Ce dossier regroupe : 
 

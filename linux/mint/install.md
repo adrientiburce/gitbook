@@ -1,4 +1,6 @@
-## Notes sur l'installation de Linux Mint 
+# Configurer Linux Mint 
+
+Que faire après avoir installé Linux Mint
 
 ### Problèmes de Wifi avec RTL8723BE
 

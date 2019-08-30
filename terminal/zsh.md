@@ -1,6 +1,6 @@
-# Astuces Linux 
+# Oh-My-Zsh
 
-## Terminal : Zsh 
+Comment installer oh-my-zsh pour avoir un joli terminal
 
 1) Installation de *Zsh*
 

@@ -1,4 +1,6 @@
-# Commandes utiles de Linux : 
+# Commandes bash utiles : 
+
+Quelques commandes utiles sur Linux
 
 ## Rechercher un fichier : 
  

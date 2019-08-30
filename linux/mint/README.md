@@ -1,10 +1,10 @@
-# Astuces sur Linux Mint
+---
+description: Découvrez ce fork d'Ubuntu
+---
 
-## Ce dossier regroupe : 
-
- * Un tuto sur la configuration après l'installation de Mint
-
-  * Tuto pour réparer une partition endommagée
+# Linux Mint 
 
 
- 
+
+
+
