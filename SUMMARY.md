@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Documentation personnelle](README.md)
+* [Sommaire](README.md)
 * [Linux](linux/README.md)
   * [Solus](linux/solus/README.md)
     * [Installation](linux/solus/install.md)

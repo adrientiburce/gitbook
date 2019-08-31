@@ -6,13 +6,13 @@ description: Comment installer oh-my-zsh pour avoir un joli terminal
 
 1. Installation de _Zsh_
 
-```text
+```bash
 sudo apt install zsh
 ```
 
 1. Installation de **Oh-my-zsh**
 
-```text
+```bash
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
