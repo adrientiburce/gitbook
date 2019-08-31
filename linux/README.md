@@ -1,3 +1,7 @@
+---
+description: Des petites astuces ou mes configurations sur certaines distributions Linux
+---
+
 # Linux
 
 * [Solus](solus/)

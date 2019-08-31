@@ -1,3 +1,7 @@
+---
+description: 'Comment installer VsCode sur Windows, Linux ou Mac'
+---
+
 # Installation
 
 ## Installation

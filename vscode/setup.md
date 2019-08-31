@@ -1,6 +1,10 @@
+---
+description: Quelques extensions utile pour développer avec Visual Studio Code
+---
+
 # Les extensions
 
-Quelques extensions utile pour développer avec Visual Studio Code
+
 
 ## Pour le Dev Wev \( PHP & JS\)
 

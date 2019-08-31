@@ -2,11 +2,35 @@
 description: Les premiers réglages à faire après avoir installé Linux Mint
 ---
 
-# Configurer Linux Mint
+# Configuration
+
+## Mettre a Jour APT :
+
+{% hint style="info" %}
+**APT** est la bibliothèque des paquet des forks d'Ubuntu, de Linux Mint 
+{% endhint %}
+
+#### 1. Mise à jour
+
+```bash
+sudo apt-get update && sudo apt-get upgrade -y
+```
+
+#### 2. Régler les conflits 
+
+Pour mettre à jour intelligemment les dépendances :
+
+```bash
+sudo apt-get dist-upgrade
+```
 
 ## Problèmes de Wifi avec RTL8723BE
 
-1. Préliminaires
+{% hint style="warning" %}
+Ces problèmes ont été rencontrés sur un **HP** 
+{% endhint %}
+
+1. **Préliminaires**
 
 * Vérifier votre carte wifi avec : `lspci | grep "Network"`
 * Vérifier l'état de votre connexion : `iwlist scan | egrep -i 'ssid|quality'` 
@@ -20,8 +44,5 @@ description: Les premiers réglages à faire après avoir installé Linux Mint
 
 Source : [Topic Ubuntu](https://forum.ubuntu-fr.org/viewtopic.php?id=2019769)
 
-## Mettre a Jour APT :
 
-1. `sudo apt-get update && sudo apt-get upgrade -y`
-2. La commande `sudo apt-get dist-upgrade` peut etre utile pour intelligemment metre a jour les dépendances !
 
