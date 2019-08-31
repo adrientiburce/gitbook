@@ -1,6 +1,9 @@
 # Fichier php.conf
 
+{% code-tabs %}
+{% code-tabs-item title="php.conf" %}
 ```bash
+
 LoadModule proxy_module lib64/httpd/mod_proxy.so
 LoadModule proxy_fcgi_module lib64/httpd/mod_proxy_fcgi.so
 <FilesMatch .php$>
@@ -11,4 +14,6 @@ SetHandler "proxy:fcgi://127.0.0.1:9000"
 DirectoryIndex index.php index.html
 </IfModule>
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 
