@@ -4,11 +4,15 @@ description: Des petites astuces ou mes configurations sur certaines distributio
 
 # Linux
 
-* [Solus](solus/)
+### Solus
 
-  > Site officielle : [getsol.us](https://getsol.us/home/)
+Site officielle : [getsol.us](https://getsol.us/home/)
 
-* [Linux Mint](mint/)
+{% page-ref page="solus/" %}
 
-  > Site : [linuxmint.com](https://www.linuxmint.com/)
+### Linux Mint
+
+Site : [linuxmint.com](https://www.linuxmint.com/)
+
+{% page-ref page="mint/" %}
 
