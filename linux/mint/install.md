@@ -30,17 +30,31 @@ sudo apt-get dist-upgrade
 Ces problèmes ont été rencontrés sur un **HP** 
 {% endhint %}
 
-1. **Préliminaires**
+#### 1. **Préliminaires**
 
 * Vérifier votre carte wifi avec : `lspci | grep "Network"`
 * Vérifier l'état de votre connexion : `iwlist scan | egrep -i 'ssid|quality'` 
-* Mettre a Jout APT : voir ci-dessous 
+* Mettre a Jour [APT](https://developer.webrush.fr/linux/mint/install#mettre-a-jour-apt)
 
-2. Changer l'antenne utilisée :
+#### 2. Configurer
 
-* `echo "options rtl8723be fwlps=0 ant_sel=2" | sudo tee /etc/modprobe.d/rtl8723be.conf`
-* Redémarrer le module : `sudo modprobe -r rtl8723be` puis `sudo modprobe rtl8723be`
-* On peut aussi empêcher la mise en veille de la carte wifi : `echo "options rtl8723be fwlps=0" | sudo tee /etc/modprobe.d/rtl8723be.conf`
+* Changer l'antenne utilisée :
+
+```bash
+echo "options rtl8723be fwlps=0 ant_sel=2" | 
+sudo tee /etc/modprobe.d/rtl8723be.conf
+```
+
+* Redémarrer le module : 
+
+`sudo modprobe -r rtl8723be` puis `sudo modprobe rtl8723be`
+
+* On peut aussi empêcher la mise en veille de la carte wifi : 
+
+```bash
+echo "options rtl8723be fwlps=0" | sudo tee
+/etc/modprobe.d/rtl8723be.conf
+```
 
 Source : [Topic Ubuntu](https://forum.ubuntu-fr.org/viewtopic.php?id=2019769)
 
