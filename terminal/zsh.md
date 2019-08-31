@@ -23,19 +23,19 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 
    Si l'on veut ne pas avoir de sortie lorsque l'on tape `git branch` ou `git log` :
 
-```text
+```bash
 git config --global core.pager ''
 ```
 
 1. Avoir zsh par **défaut** :
 
-```text
+```bash
 chsh -s $(which zsh)
 ```
 
 1. Une auto-complétion sympa : Ajouter la ligne suivante à votre `.zshrc` \( ou ajoute une option avec la commande `setopt`\)
 
-```text
+```bash
 setopt correct
 ```
 
