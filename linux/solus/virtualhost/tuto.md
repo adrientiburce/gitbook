@@ -45,7 +45,7 @@ description: Comment créer un virtualhost
 
 vérifier que la ligne `require all granted` est présente et décommenté dans Directory
 
-### - 4 : ERREUR d'acces refusé à localhost:
+### 4 : Erreur d'acces refusé à localhost:
 
 Remplacer
 
