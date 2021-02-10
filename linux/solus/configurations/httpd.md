@@ -1,7 +1,6 @@
 # Fichier httpd.conf
 
-{% code-tabs %}
-{% code-tabs-item title="httpd.conf" %}
+{% code title="httpd.conf" %}
 ```bash
 <IfModule dir_module>
     Alias /projet /home/adrient/Documents/info/0php_project
@@ -38,6 +37,5 @@ DocumentRoot "/var/www"
     Require all granted
 </Directory>
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 

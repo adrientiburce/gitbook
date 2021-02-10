@@ -1,18 +1,18 @@
 ---
-description: Des petites astuces ou mes configurations sur certaines distributions Linux
+description: Des petites astuces et mes configurations pour certaines distributions Linux
 ---
 
 # Linux
 
 ### Solus
 
-Site officielle : [getsol.us](https://getsol.us/home/)
+Site officiel : [getsol.us](https://getsol.us/home/)
 
 {% page-ref page="solus/" %}
 
 ### Linux Mint
 
-Site : [linuxmint.com](https://www.linuxmint.com/)
+Site officiel : [linuxmint.com](https://www.linuxmint.com/)
 
 {% page-ref page="mint/" %}
 
