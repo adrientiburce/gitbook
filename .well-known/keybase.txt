@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/atiburce
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://developer.webrush.fr
+  * I am atiburce (https://keybase.io/atiburce) on keybase.
+  * I have a public key ASAvQCpe5w5LoP3BTWiWxhLT8U9c2OY5JYU1HaVb_13gtgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202f402a5ee70e4ba0fdc14d6896c612d3f14f5cd8e6392585351da55bff5de0b60a",
+      "host": "keybase.io",
+      "kid": "01202f402a5ee70e4ba0fdc14d6896c612d3f14f5cd8e6392585351da55bff5de0b60a",
+      "uid": "fc1a51e6d6a9620e2c409af65ed82319",
+      "username": "atiburce"
+    },
+    "merkle_root": {
+      "ctime": 1683722331,
+      "hash": "a6ec436eff191a3e3e36c4c9360eb7a6c83cdb420aedf412ce8f9ac6d53b3c61f788cddf6d5889b3f41aaa5033a22a655576f456cf35cf1be7ba88385f33744b",
+      "hash_meta": "c9f8135aee482460bd28d1a7376dc582722427a2d30340ab3961124791a80319",
+      "seqno": 24434130
+    },
+    "service": {
+      "entropy": "QSuqgS0zoTaEN65Si3pzuBkE",
+      "hostname": "developer.webrush.fr",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1683722368,
+  "expire_in": 504576000,
+  "prev": "12dd9df2b4e415d6d7787b17d86a6c08214f710e571f4b3814e18bbb0c402300",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgL0AqXucOS6D9wU1olsYS0/FPXNjmOSWFNR2lW/9d4LYKp3BheWxvYWTESpcCB8QgEt2d8rTkFdbXeHsX2GpsCCFPcQ5XH0s4FOGLuwxAIwDEIA3nnIrCcBMYnTOjERfgn3freANLbdmjTQ+igT8GQS7jAgHCo3NpZ8RAm2LPgVuLUM7xAZ9nN5Ulo4nALbXhw8uoZz6tb2IvN0+97RJOcFQYs0Wly0IcAf22uKQxW9kjA5nWMPW9XfdADahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAvI/s5HMAgj4g3fU7sjBEx9m2nvv4UxjWLgR7v/AOepo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/atiburce
+
+==================================================================
